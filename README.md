@@ -18,14 +18,14 @@ The dataset consists of F1 qualifying results from **2018 to 2024**, stored in C
 1. **Data Loading:** The data is stored in HDFS and read using **Apache Spark**.
 2. **Data Preprocessing:**
    - Convert lap times to numeric format.
-   - Remove rows where necessary qualifying times (Q1, Q2, or Q3) are missing.
+   - Remove rows where necessary practice and qualifying times (FP1, FP2, Q1, Q2, or Q3) are missing.
 3. **Model Training:**
    - A **Linear Regression model** is trained per season.
    - Training data includes all races except the last round.
-   - Testing data includes only the last round with known Q1 and Q2 times.
+   - Testing data includes only the last round with known practice and Q1 and Q2 times.
 4. **Predictions:**
    - The model predicts Q3 times for the final race.
-   - Results are stored in HDFS under `/f1_predictions_only_quali/`.
+   - Results are stored in HDFS under `/f1_predictions/` and `/f1_predictions_only_quali/`.
    - Predictions are sorted by the predicted Q3 times.
 
 ## Directory Structure
