@@ -1,6 +1,4 @@
-# F1-Laptime-Prediction
-
-# F1 Laptime Prediction
+# F1 Laptime Prediction 🏎️🏁
 
 ## Overview
 This project predicts **Q3 lap times** of Formula 1 races using **historical qualifying data**. The model is trained using Q1 and Q2 times from past races and then predicts Q3 times for the last race of each season.
