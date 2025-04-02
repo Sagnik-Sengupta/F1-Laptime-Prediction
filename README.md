@@ -58,9 +58,7 @@ The dataset consists of F1 practice and qualifying results from **2018 to 2024**
    ```bash
    hdfs dfs -get /f1_predictions_only_quali/ results/
    ```
-
-## Contributors
-- **Sagnik Sengupta**  
+ 
 
 ## License
 MIT License
