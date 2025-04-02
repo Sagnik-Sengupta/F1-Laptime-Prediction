@@ -1,0 +1,421 @@
+DriverNumber,Driver,TeamName,Q1,Q2,Q3,Year,Round,FP1,FP2,FP3
+44,Lewis Hamilton,Mercedes,82.824,82.051,81.164,2018,1,84.026,83.931,94.225
+7,Kimi Räikkönen,Ferrari,83.096,82.507,81.828,2018,1,84.875,84.214,88.499
+5,Sebastian Vettel,Ferrari,83.348,81.944,81.838,2018,1,84.995,84.46,86.067
+33,Max Verstappen,Red Bull Racing,83.483,82.416,81.879,2018,1,84.771,84.058,91.68
+3,Daniel Ricciardo,Red Bull Racing,83.494,82.897,82.152,2018,1,85.063,84.721,94.043
+20,Kevin Magnussen,Haas F1 Team,83.909,83.3,83.187,2018,1,87.035,85.246,96.807
+8,Romain Grosjean,Haas F1 Team,83.671,83.468,83.339,2018,1,85.73,84.648,96.171
+27,Nico Hulkenberg,Renault,83.782,83.544,83.532,2018,1,86.583,85.471,98.482
+55,Carlos Sainz,Renault,83.529,83.061,83.577,2018,1,85.922,85.39,93.172
+77,Valtteri Bottas,Mercedes,83.686,82.089,,2018,1,84.577,84.159,94.174
+14,Fernando Alonso,McLaren,83.597,83.692,,2018,1,85.896,85.2,94.298
+2,Stoffel Vandoorne,McLaren,84.073,83.853,,2018,1,86.482,85.285,94.233
+11,Sergio Perez,Force India,84.344,84.005,,2018,1,86.767,85.413,
+18,Lance Stroll,Williams,84.464,84.23,,2018,1,86.636,85.543,95.828
+31,Esteban Ocon,Force India,84.503,84.786,,2018,1,86.605,85.888,
+28,Brendon Hartley,Toro Rosso,84.532,,,2018,1,87.745,85.925,95.438
+9,Marcus Ericsson,Sauber,84.556,,,2018,1,87.964,86.814,88.89
+16,Charles Leclerc,Sauber,84.636,,,2018,1,88.853,86.815,96.448
+35,Sergey Sirotkin,Williams,84.922,,,2018,1,86.536,85.974,95.589
+10,Pierre Gasly,Toro Rosso,85.295,,,2018,1,86.494,85.945,94.99
+5,Sebastian Vettel,Ferrari,89.06,88.341,87.958,2018,2,91.47,89.828,90.719
+7,Kimi Räikkönen,Ferrari,88.951,88.515,88.101,2018,2,91.458,89.817,89.868
+77,Valtteri Bottas,Mercedes,89.275,88.794,88.124,2018,2,91.364,90.38,90.781
+44,Lewis Hamilton,Mercedes,89.396,88.458,88.22,2018,2,92.272,90.472,90.691
+3,Daniel Ricciardo,Red Bull Racing,89.552,88.962,88.398,2018,2,91.06,90.751,90.452
+10,Pierre Gasly,Toro Rosso,90.121,89.836,89.329,2018,2,92.779,91.232,91.438
+20,Kevin Magnussen,Haas F1 Team,89.594,89.623,89.358,2018,2,92.971,91.969,91.737
+27,Nico Hulkenberg,Renault,90.26,89.187,89.57,2018,2,93.104,91.22,91.144
+31,Esteban Ocon,Force India,90.338,90.009,89.874,2018,2,93.794,91.809,91.554
+55,Carlos Sainz,Renault,89.893,89.802,89.986,2018,2,92.885,91.601,91.2
+28,Brendon Hartley,Toro Rosso,90.412,90.105,,2018,2,93.497,92.908,91.46
+11,Sergio Perez,Force India,90.218,90.156,,2018,2,93.662,91.868,91.564
+14,Fernando Alonso,McLaren,90.53,90.212,,2018,2,93.223,91.282,91.445
+2,Stoffel Vandoorne,McLaren,90.479,90.525,,2018,2,93.364,91.422,91.86
+33,Max Verstappen,Red Bull Racing,89.374,,,2018,2,,90.745,90.393
+8,Romain Grosjean,Haas F1 Team,90.53,,,2018,2,92.516,91.591,91.513
+9,Marcus Ericsson,Sauber,91.063,,,2018,2,93.508,92.733,91.859
+35,Sergey Sirotkin,Williams,91.414,,,2018,2,93.467,92.474,92.463
+16,Charles Leclerc,Sauber,91.42,,,2018,2,93.278,92.372,92.047
+18,Lance Stroll,Williams,91.503,,,2018,2,93.379,92.382,92.865
+5,Sebastian Vettel,Ferrari,92.171,92.385,91.095,2018,3,94.861,93.59,93.018
+7,Kimi Räikkönen,Ferrari,92.474,92.286,91.182,2018,3,94.358,93.489,93.469
+77,Valtteri Bottas,Mercedes,92.921,92.063,91.625,2018,3,94.457,93.515,93.761
+44,Lewis Hamilton,Mercedes,93.283,91.914,91.675,2018,3,93.999,93.482,94.057
+33,Max Verstappen,Red Bull Racing,92.932,92.809,91.796,2018,3,94.668,93.823,93.969
+3,Daniel Ricciardo,Red Bull Racing,93.877,92.688,91.948,2018,3,94.537,94.557,95.061
+27,Nico Hulkenberg,Renault,93.545,92.494,92.532,2018,3,95.8,94.313,94.841
+11,Sergio Perez,Force India,93.464,92.931,92.758,2018,3,96.051,94.792,94.445
+55,Carlos Sainz,Renault,93.315,92.97,92.819,2018,3,95.616,94.473,94.582
+8,Romain Grosjean,Haas F1 Team,93.238,92.524,92.855,2018,3,95.718,96.471,95.756
+20,Kevin Magnussen,Haas F1 Team,93.359,92.986,,2018,3,95.178,94.458,94.329
+31,Esteban Ocon,Force India,93.585,93.057,,2018,3,96.351,94.874,94.456
+14,Fernando Alonso,McLaren,93.428,93.232,,2018,3,96.044,94.632,94.851
+2,Stoffel Vandoorne,McLaren,93.824,93.505,,2018,3,96.756,95.163,94.977
+28,Brendon Hartley,Toro Rosso,94.013,93.795,,2018,3,96.715,95.333,94.991
+35,Sergey Sirotkin,Williams,94.062,,,2018,3,96.691,95.34,94.741
+10,Pierre Gasly,Toro Rosso,94.101,,,2018,3,96.037,94.849,95.079
+18,Lance Stroll,Williams,94.285,,,2018,3,97.277,97.147,95.375
+16,Charles Leclerc,Sauber,94.454,,,2018,3,96.723,95.916,95.497
+9,Marcus Ericsson,Sauber,94.914,,,2018,3,96.909,95.624,95.679
+5,Sebastian Vettel,Ferrari,102.762,103.015,101.498,2018,4,106.513,104.127,103.091
+44,Lewis Hamilton,Mercedes,102.693,102.676,101.677,2018,4,105.2,103.603,103.452
+77,Valtteri Bottas,Mercedes,103.355,102.679,101.837,2018,4,104.242,103.57,103.569
+3,Daniel Ricciardo,Red Bull Racing,102.857,103.482,101.911,2018,4,104.277,102.795,104.861
+33,Max Verstappen,Red Bull Racing,102.642,102.901,101.994,2018,4,105.559,102.911,103.519
+7,Kimi Räikkönen,Ferrari,102.538,102.51,102.49,2018,4,106.861,102.864,103.493
+31,Esteban Ocon,Force India,103.021,102.967,102.523,2018,4,105.237,103.814,104.22
+11,Sergio Perez,Force India,103.992,103.366,102.547,2018,4,105.075,104.142,103.936
+27,Nico Hulkenberg,Renault,103.746,103.232,103.066,2018,4,106.749,104.091,105.456
+55,Carlos Sainz,Renault,103.426,103.464,103.351,2018,4,108.741,103.834,105.432
+18,Lance Stroll,Williams,104.359,103.585,,2018,4,106.59,104.459,104.123
+35,Sergey Sirotkin,Williams,104.261,103.886,,2018,4,106.48,105.007,104.534
+14,Fernando Alonso,McLaren,104.01,104.019,,2018,4,106.465,103.7,104.763
+16,Charles Leclerc,Sauber,103.752,104.074,,2018,4,106.875,104.94,105.218
+20,Kevin Magnussen,Haas F1 Team,103.674,104.759,,2018,4,107.434,103.977,103.958
+2,Stoffel Vandoorne,McLaren,104.489,,,2018,4,107.967,105.288,105.505
+10,Pierre Gasly,Toro Rosso,104.496,,,2018,4,106.492,104.712,104.905
+9,Marcus Ericsson,Sauber,105.541,,,2018,4,107.073,106.042,105.91
+28,Brendon Hartley,Toro Rosso,117.354,,,2018,4,106.747,105.051,106.186
+8,Romain Grosjean,Haas F1 Team,,,,2018,4,106.856,104.425,105.261
+44,Lewis Hamilton,Mercedes,77.633,77.166,76.173,2018,5,78.997,78.259,77.281
+77,Valtteri Bottas,Mercedes,77.674,77.111,76.213,2018,5,78.148,78.611,77.294
+5,Sebastian Vettel,Ferrari,77.031,76.802,76.305,2018,5,79.098,78.585,77.55
+7,Kimi Räikkönen,Ferrari,77.483,77.071,76.612,2018,5,79.499,78.829,77.581
+33,Max Verstappen,Red Bull Racing,77.411,77.266,76.816,2018,5,79.187,78.533,79.013
+3,Daniel Ricciardo,Red Bull Racing,77.623,77.638,76.818,2018,5,79.871,78.392,77.981
+20,Kevin Magnussen,Haas F1 Team,78.169,77.618,77.676,2018,5,80.637,79.643,78.357
+14,Fernando Alonso,McLaren,78.276,78.1,77.721,2018,5,79.858,80.035,78.847
+55,Carlos Sainz,Renault,78.48,77.803,77.79,2018,5,81.053,80.672,78.783
+8,Romain Grosjean,Haas F1 Team,78.305,77.699,77.835,2018,5,79.906,79.579,78.706
+2,Stoffel Vandoorne,McLaren,78.885,78.323,,2018,5,80.083,79.722,79.236
+10,Pierre Gasly,Toro Rosso,78.55,78.463,,2018,5,80.508,80.373,78.886
+31,Esteban Ocon,Force India,78.813,78.696,,2018,5,81.144,80.024,79.121
+16,Charles Leclerc,Sauber,78.661,78.91,,2018,5,80.665,80.514,79.292
+11,Sergio Perez,Force India,78.74,79.098,,2018,5,80.924,79.962,79.376
+27,Nico Hulkenberg,Renault,78.923,,,2018,5,81.159,80.183,78.905
+9,Marcus Ericsson,Sauber,79.493,,,2018,5,80.984,80.501,79.744
+35,Sergey Sirotkin,Williams,79.695,,,2018,5,,82.06,79.909
+18,Lance Stroll,Williams,80.225,,,2018,5,82.756,81.556,79.9
+28,Brendon Hartley,Toro Rosso,,,,2018,5,81.373,81.265,79.428
+3,Daniel Ricciardo,Red Bull Racing,72.013,71.278,70.81,2018,6,72.126,71.841,71.786
+5,Sebastian Vettel,Ferrari,72.415,71.518,71.039,2018,6,73.041,72.413,72.023
+44,Lewis Hamilton,Mercedes,72.46,71.584,71.232,2018,6,72.48,72.536,72.273
+7,Kimi Räikkönen,Ferrari,72.639,71.391,71.266,2018,6,73.066,72.543,72.142
+77,Valtteri Bottas,Mercedes,72.434,72.002,71.441,2018,6,73.502,72.642,72.356
+31,Esteban Ocon,Force India,73.028,72.188,72.061,2018,6,74.0,73.382,72.94
+14,Fernando Alonso,McLaren,72.657,72.269,72.11,2018,6,74.637,73.115,73.279
+55,Carlos Sainz,Renault,72.95,72.286,72.13,2018,6,73.456,73.2,72.85
+11,Sergio Perez,Force India,72.848,72.194,72.154,2018,6,73.717,73.37,73.025
+10,Pierre Gasly,Toro Rosso,72.941,72.313,72.221,2018,6,74.24,73.41,72.761
+27,Nico Hulkenberg,Renault,73.065,72.411,,2018,6,74.134,73.047,73.112
+2,Stoffel Vandoorne,McLaren,72.463,72.44,,2018,6,74.291,73.077,72.874
+35,Sergey Sirotkin,Williams,72.706,72.521,,2018,6,73.962,73.547,72.854
+16,Charles Leclerc,Sauber,72.829,72.714,,2018,6,74.521,73.575,73.644
+8,Romain Grosjean,Haas F1 Team,72.93,72.728,,2018,6,73.943,73.763,73.881
+28,Brendon Hartley,Toro Rosso,73.179,,,2018,6,74.034,73.222,72.752
+9,Marcus Ericsson,Sauber,73.265,,,2018,6,75.206,74.173,74.221
+18,Lance Stroll,Williams,73.323,,,2018,6,74.782,74.011,73.595
+20,Kevin Magnussen,Haas F1 Team,73.393,,,2018,6,78.801,73.572,74.192
+33,Max Verstappen,Red Bull Racing,,,,2018,6,72.28,72.035,71.787
+5,Sebastian Vettel,Ferrari,71.71,71.524,70.764,2018,7,73.574,72.985,71.648
+77,Valtteri Bottas,Mercedes,71.95,71.514,70.857,2018,7,73.617,73.061,72.255
+33,Max Verstappen,Red Bull Racing,72.008,71.472,70.937,2018,7,73.302,72.198,71.599
+44,Lewis Hamilton,Mercedes,71.835,71.74,70.996,2018,7,73.39,72.777,71.706
+7,Kimi Räikkönen,Ferrari,71.725,71.62,71.095,2018,7,73.727,72.328,71.65
+3,Daniel Ricciardo,Red Bull Racing,72.459,71.434,71.116,2018,7,73.518,72.603,72.153
+27,Nico Hulkenberg,Renault,72.795,71.916,71.973,2018,7,122.84,73.967,72.946
+31,Esteban Ocon,Force India,72.577,72.141,72.084,2018,7,75.071,73.747,73.064
+55,Carlos Sainz,Renault,72.689,72.097,72.168,2018,7,74.116,74.433,73.331
+11,Sergio Perez,Force India,72.702,72.395,72.671,2018,7,,73.754,72.903
+20,Kevin Magnussen,Haas F1 Team,72.68,72.606,,2018,7,75.579,73.956,73.488
+28,Brendon Hartley,Toro Rosso,72.587,72.635,,2018,7,75.756,73.889,73.076
+16,Charles Leclerc,Sauber,72.945,72.661,,2018,7,75.439,73.884,73.452
+14,Fernando Alonso,McLaren,72.979,72.856,,2018,7,73.9,73.866,73.225
+2,Stoffel Vandoorne,McLaren,72.998,72.865,,2018,7,74.311,74.167,73.034
+10,Pierre Gasly,Toro Rosso,73.047,,,2018,7,75.004,74.486,73.334
+18,Lance Stroll,Williams,73.59,,,2018,7,76.259,74.703,73.968
+35,Sergey Sirotkin,Williams,73.643,,,2018,7,75.768,74.782,73.818
+9,Marcus Ericsson,Sauber,74.593,,,2018,7,75.386,74.108,73.925
+8,Romain Grosjean,Haas F1 Team,,,,2018,7,75.119,73.62,73.014
+44,Lewis Hamilton,Mercedes,91.271,90.645,90.029,2018,8,92.231,92.539,100.743
+77,Valtteri Bottas,Mercedes,91.776,91.227,90.147,2018,8,92.371,94.156,93.666
+5,Sebastian Vettel,Ferrari,91.82,90.751,90.4,2018,8,93.172,93.689,96.756
+33,Max Verstappen,Red Bull Racing,91.531,90.818,90.705,2018,8,93.331,93.271,124.242
+3,Daniel Ricciardo,Red Bull Racing,91.91,91.538,90.895,2018,8,92.527,93.243,99.738
+7,Kimi Räikkönen,Ferrari,91.567,90.772,91.057,2018,8,93.003,93.426,109.711
+55,Carlos Sainz,Renault,92.394,92.016,92.126,2018,8,94.258,95.086,94.953
+16,Charles Leclerc,Sauber,92.538,92.055,92.635,2018,8,94.513,95.583,95.012
+20,Kevin Magnussen,Haas F1 Team,92.169,91.51,92.93,2018,8,94.108,94.457,
+8,Romain Grosjean,Haas F1 Team,92.083,91.472,,2018,8,93.318,93.699,
+31,Esteban Ocon,Force India,92.786,92.075,,2018,8,94.484,95.705,100.087
+27,Nico Hulkenberg,Renault,92.949,92.115,,2018,8,94.993,95.067,110.976
+11,Sergio Perez,Force India,92.692,92.454,,2018,8,93.719,96.08,99.641
+10,Pierre Gasly,Toro Rosso,92.447,92.46,,2018,8,93.685,94.535,98.317
+9,Marcus Ericsson,Sauber,92.804,92.82,,2018,8,94.592,,98.45
+14,Fernando Alonso,McLaren,92.976,,,2018,8,94.862,94.4,96.365
+28,Brendon Hartley,Toro Rosso,93.025,,,2018,8,94.664,95.697,
+2,Stoffel Vandoorne,McLaren,93.162,,,2018,8,95.021,95.172,97.547
+35,Sergey Sirotkin,Williams,93.636,,,2018,8,95.105,95.97,119.6
+18,Lance Stroll,Williams,93.729,,,2018,8,94.881,95.936,122.399
+77,Valtteri Bottas,Mercedes,64.175,63.756,63.13,2018,9,64.966,64.755,64.204
+44,Lewis Hamilton,Mercedes,64.08,63.577,63.149,2018,9,64.839,64.579,64.099
+5,Sebastian Vettel,Ferrari,64.347,63.544,63.464,2018,9,65.18,64.815,64.07
+7,Kimi Räikkönen,Ferrari,64.234,63.975,63.66,2018,9,65.776,65.265,64.47
+33,Max Verstappen,Red Bull Racing,64.273,64.001,63.84,2018,9,65.072,65.125,64.791
+8,Romain Grosjean,Haas F1 Team,64.242,64.059,63.892,2018,9,66.028,65.429,64.916
+3,Daniel Ricciardo,Red Bull Racing,64.723,64.403,63.996,2018,9,65.483,65.031,64.891
+20,Kevin Magnussen,Haas F1 Team,64.46,64.291,64.051,2018,9,66.404,65.559,65.013
+55,Carlos Sainz,Renault,64.948,64.561,64.725,2018,9,66.427,65.999,65.086
+27,Nico Hulkenberg,Renault,64.864,64.676,65.019,2018,9,66.479,66.273,65.228
+31,Esteban Ocon,Force India,65.148,64.845,,2018,9,66.055,66.133,65.444
+10,Pierre Gasly,Toro Rosso,65.011,64.874,,2018,9,66.394,65.758,65.264
+16,Charles Leclerc,Sauber,64.967,64.979,,2018,9,66.215,66.096,65.219
+14,Fernando Alonso,McLaren,64.965,65.058,,2018,9,66.612,66.429,65.448
+18,Lance Stroll,Williams,65.264,65.286,,2018,9,66.567,66.626,66.029
+2,Stoffel Vandoorne,McLaren,65.271,,,2018,9,66.698,65.93,65.837
+11,Sergio Perez,Force India,65.279,,,2018,9,66.455,66.354,65.502
+35,Sergey Sirotkin,Williams,65.322,,,2018,9,,66.326,66.318
+28,Brendon Hartley,Toro Rosso,65.366,,,2018,9,66.871,66.332,65.705
+9,Marcus Ericsson,Sauber,65.479,,,2018,9,66.4,66.199,65.699
+44,Lewis Hamilton,Mercedes,86.818,86.256,85.892,2018,10,87.487,87.739,86.722
+5,Sebastian Vettel,Ferrari,86.585,86.372,85.936,2018,10,87.998,87.552,87.851
+7,Kimi Räikkönen,Ferrari,87.549,86.483,85.99,2018,10,88.218,88.045,86.815
+77,Valtteri Bottas,Mercedes,87.025,86.413,86.217,2018,10,87.854,87.909,87.364
+33,Max Verstappen,Red Bull Racing,87.309,87.013,86.602,2018,10,88.325,,88.012
+3,Daniel Ricciardo,Red Bull Racing,87.979,87.369,87.099,2018,10,88.144,88.408,88.018
+20,Kevin Magnussen,Haas F1 Team,88.143,87.73,87.244,2018,10,90.065,89.617,88.418
+8,Romain Grosjean,Haas F1 Team,88.086,87.522,87.455,2018,10,89.352,,88.554
+16,Charles Leclerc,Sauber,87.962,87.79,87.879,2018,10,90.027,89.557,88.146
+31,Esteban Ocon,Force India,88.279,87.843,88.194,2018,10,89.815,89.467,88.917
+27,Nico Hulkenberg,Renault,88.017,87.901,,2018,10,90.701,89.354,89.094
+11,Sergio Perez,Force India,88.21,87.928,,2018,10,89.812,89.522,89.066
+14,Fernando Alonso,McLaren,88.187,88.139,,2018,10,90.322,89.306,89.07
+10,Pierre Gasly,Toro Rosso,88.399,88.343,,2018,10,90.004,89.831,90.05
+9,Marcus Ericsson,Sauber,88.249,88.391,,2018,10,89.942,90.046,88.814
+55,Carlos Sainz,Renault,88.456,,,2018,10,90.358,89.563,89.133
+2,Stoffel Vandoorne,McLaren,89.096,,,2018,10,90.416,90.121,90.004
+35,Sergey Sirotkin,Williams,89.252,,,2018,10,91.017,90.103,89.984
+18,Lance Stroll,Williams,,,,2018,10,89.878,90.069,89.829
+28,Brendon Hartley,Toro Rosso,,,,2018,10,90.749,90.404,
+5,Sebastian Vettel,Ferrari,72.538,72.505,71.212,2018,11,73.796,73.31,95.573
+77,Valtteri Bottas,Mercedes,72.962,72.152,71.416,2018,11,73.903,73.19,103.982
+7,Kimi Räikkönen,Ferrari,72.505,72.336,71.547,2018,11,74.267,73.427,97.755
+33,Max Verstappen,Red Bull Racing,73.127,72.188,71.822,2018,11,73.714,73.085,
+20,Kevin Magnussen,Haas F1 Team,73.105,72.523,72.2,2018,11,74.853,74.189,104.993
+8,Romain Grosjean,Haas F1 Team,72.986,72.722,72.544,2018,11,74.691,73.973,104.181
+27,Nico Hulkenberg,Renault,73.479,72.946,72.56,2018,11,75.282,74.496,96.873
+55,Carlos Sainz,Renault,73.324,73.032,72.692,2018,11,75.769,74.592,120.24
+16,Charles Leclerc,Sauber,73.077,72.995,72.717,2018,11,75.097,74.374,94.577
+11,Sergio Perez,Force India,73.427,73.072,72.774,2018,11,75.415,74.552,
+14,Fernando Alonso,McLaren,73.614,73.657,,2018,11,75.544,74.836,
+35,Sergey Sirotkin,Williams,73.708,73.702,,2018,11,75.876,75.408,95.334
+9,Marcus Ericsson,Sauber,73.562,73.736,,2018,11,,74.783,95.0
+44,Lewis Hamilton,Mercedes,73.012,,,2018,11,73.529,73.111,103.664
+3,Daniel Ricciardo,Red Bull Racing,73.318,,,2018,11,73.525,74.682,
+31,Esteban Ocon,Force India,73.72,,,2018,11,,74.508,101.154
+10,Pierre Gasly,Toro Rosso,73.749,,,2018,11,76.071,74.793,95.659
+28,Brendon Hartley,Toro Rosso,74.045,,,2018,11,75.864,74.83,96.151
+18,Lance Stroll,Williams,74.206,,,2018,11,75.629,75.269,98.393
+2,Stoffel Vandoorne,McLaren,74.401,,,2018,11,76.149,75.454,104.403
+44,Lewis Hamilton,Mercedes,77.419,91.242,95.658,2018,12,78.036,77.587,76.749
+77,Valtteri Bottas,Mercedes,77.123,92.081,95.918,2018,12,78.47,77.868,76.229
+7,Kimi Räikkönen,Ferrari,77.526,92.762,96.186,2018,12,77.948,77.153,76.373
+5,Sebastian Vettel,Ferrari,76.666,88.636,96.21,2018,12,77.692,76.834,76.17
+55,Carlos Sainz,Renault,77.829,90.771,96.743,2018,12,79.128,78.495,77.754
+10,Pierre Gasly,Toro Rosso,78.577,91.286,97.591,2018,12,79.352,78.518,78.139
+33,Max Verstappen,Red Bull Racing,76.94,91.178,98.032,2018,12,77.701,76.908,76.946
+28,Brendon Hartley,Toro Rosso,78.429,92.59,98.128,2018,12,79.841,78.916,78.252
+20,Kevin Magnussen,Haas F1 Team,78.314,92.968,99.858,2018,12,79.187,78.88,78.23
+8,Romain Grosjean,Haas F1 Team,77.901,93.65,100.593,2018,12,78.975,78.065,78.084
+14,Fernando Alonso,McLaren,78.208,95.214,,2018,12,79.69,78.857,78.467
+3,Daniel Ricciardo,Red Bull Racing,78.54,96.442,,2018,12,77.613,77.061,76.803
+27,Nico Hulkenberg,Renault,77.905,96.506,,2018,12,79.025,78.913,78.083
+9,Marcus Ericsson,Sauber,78.641,97.075,,2018,12,80.697,79.043,78.842
+18,Lance Stroll,Williams,78.56,,,2018,12,80.012,79.645,79.132
+2,Stoffel Vandoorne,McLaren,78.782,,,2018,12,80.151,79.712,78.789
+16,Charles Leclerc,Sauber,78.817,,,2018,12,,79.137,78.376
+31,Esteban Ocon,Force India,79.142,,,2018,12,80.065,78.761,78.512
+11,Sergio Perez,Force India,79.2,,,2018,12,80.159,78.85,78.962
+35,Sergey Sirotkin,Williams,79.301,,,2018,12,80.307,79.77,78.63
+44,Lewis Hamilton,Mercedes,102.977,101.553,118.179,2018,13,104.676,103.523,102.798
+5,Sebastian Vettel,Ferrari,103.035,101.501,118.905,2018,13,104.358,104.129,102.661
+31,Esteban Ocon,Racing Point,104.003,103.302,121.851,2018,13,105.786,105.935,105.485
+11,Sergio Perez,Racing Point,104.004,103.014,121.894,2018,13,106.169,104.662,105.341
+8,Romain Grosjean,Haas F1 Team,103.597,103.042,122.122,2018,13,106.387,105.817,105.814
+7,Kimi Räikkönen,Ferrari,102.585,101.533,122.671,2018,13,104.718,103.355,102.724
+33,Max Verstappen,Red Bull Racing,103.199,102.554,122.769,2018,13,104.509,104.046,104.048
+3,Daniel Ricciardo,Red Bull Racing,103.604,103.126,122.939,2018,13,105.558,104.25,104.479
+20,Kevin Magnussen,Haas F1 Team,103.834,103.32,124.933,2018,13,107.012,106.078,106.087
+77,Valtteri Bottas,Mercedes,102.805,102.191,,2018,13,104.724,103.803,103.464
+10,Pierre Gasly,Toro Rosso,104.221,103.844,,2018,13,106.3,106.08,106.182
+28,Brendon Hartley,Toro Rosso,104.153,103.865,,2018,13,106.932,106.337,106.259
+16,Charles Leclerc,Sauber,103.654,104.062,,2018,13,106.554,105.622,104.963
+9,Marcus Ericsson,Sauber,103.846,104.301,,2018,13,106.557,105.537,105.536
+27,Nico Hulkenberg,Renault,104.145,,,2018,13,105.951,105.753,105.464
+55,Carlos Sainz,Renault,104.489,,,2018,13,106.21,105.481,105.925
+14,Fernando Alonso,McLaren,104.917,,,2018,13,,106.153,106.942
+35,Sergey Sirotkin,Williams,104.998,,,2018,13,107.367,106.451,106.63
+18,Lance Stroll,Williams,105.134,,,2018,13,106.965,106.47,106.502
+2,Stoffel Vandoorne,McLaren,105.307,,,2018,13,107.452,106.496,107.061
+7,Kimi Räikkönen,Ferrari,80.722,79.846,79.119,2018,14,94.55,81.375,80.682
+5,Sebastian Vettel,Ferrari,80.542,79.629,79.28,2018,14,97.867,81.105,80.509
+44,Lewis Hamilton,Mercedes,80.81,79.798,79.294,2018,14,96.546,81.392,80.59
+77,Valtteri Bottas,Mercedes,81.381,80.427,79.656,2018,14,96.238,81.803,81.112
+33,Max Verstappen,Red Bull Racing,81.381,80.333,80.615,2018,14,95.665,82.154,81.388
+8,Romain Grosjean,Haas F1 Team,81.887,81.239,80.936,2018,14,97.683,83.077,82.357
+55,Carlos Sainz,Renault,81.732,81.552,81.041,2018,14,95.995,83.193,82.737
+31,Esteban Ocon,Racing Point,81.57,81.315,81.099,2018,14,94.593,82.93,82.055
+10,Pierre Gasly,Toro Rosso,81.834,81.667,81.35,2018,14,95.438,83.402,82.631
+18,Lance Stroll,Williams,81.838,81.494,81.627,2018,14,98.253,83.566,82.86
+20,Kevin Magnussen,Haas F1 Team,81.783,81.669,,2018,14,97.066,83.233,82.011
+35,Sergey Sirotkin,Williams,81.813,81.732,,2018,14,97.929,83.514,82.778
+14,Fernando Alonso,McLaren,81.85,82.568,,2018,14,97.426,83.741,82.892
+27,Nico Hulkenberg,Renault,81.801,,,2018,14,96.107,83.063,83.149
+3,Daniel Ricciardo,Red Bull Racing,81.28,,,2018,14,95.207,82.296,82.31
+11,Sergio Perez,Racing Point,81.888,,,2018,14,94.0,82.942,82.486
+16,Charles Leclerc,Sauber,81.889,,,2018,14,96.648,82.965,82.313
+28,Brendon Hartley,Toro Rosso,81.934,,,2018,14,95.024,83.531,83.164
+9,Marcus Ericsson,Sauber,82.048,,,2018,14,97.79,,82.882
+2,Stoffel Vandoorne,McLaren,82.085,,,2018,14,,84.084,82.987
+44,Lewis Hamilton,Mercedes,99.403,97.344,96.015,2018,15,101.232,98.71,98.558
+33,Max Verstappen,Red Bull Racing,98.751,97.214,96.334,2018,15,99.912,99.221,99.265
+5,Sebastian Vettel,Ferrari,98.218,97.876,96.628,2018,15,99.997,100.633,98.054
+77,Valtteri Bottas,Mercedes,99.291,97.254,96.702,2018,15,101.429,99.368,98.603
+7,Kimi Räikkönen,Ferrari,98.534,97.194,96.794,2018,15,100.486,98.699,98.416
+3,Daniel Ricciardo,Red Bull Racing,98.153,97.406,96.996,2018,15,99.711,99.309,99.186
+11,Sergio Perez,Racing Point,98.814,98.342,97.985,2018,15,102.412,100.774,100.231
+8,Romain Grosjean,Haas F1 Team,98.685,98.367,98.32,2018,15,102.108,100.384,99.747
+31,Esteban Ocon,Racing Point,98.912,98.534,98.365,2018,15,103.177,100.87,100.073
+27,Nico Hulkenberg,Renault,98.932,98.45,98.588,2018,15,101.105,100.668,100.45
+14,Fernando Alonso,McLaren,99.022,98.641,,2018,15,102.63,100.459,100.254
+55,Carlos Sainz,Renault,99.103,98.716,,2018,15,101.329,100.274,100.591
+16,Charles Leclerc,Sauber,99.206,98.747,,2018,15,102.035,101.062,100.915
+9,Marcus Ericsson,Sauber,99.366,99.453,,2018,15,102.408,100.812,101.953
+10,Pierre Gasly,Toro Rosso,99.614,99.691,,2018,15,103.24,101.615,100.686
+20,Kevin Magnussen,Haas F1 Team,99.644,,,2018,15,102.452,101.154,100.559
+28,Brendon Hartley,Toro Rosso,99.809,,,2018,15,103.485,101.542,101.562
+2,Stoffel Vandoorne,McLaren,99.864,,,2018,15,105.16,101.164,100.798
+35,Sergey Sirotkin,Williams,101.263,,,2018,15,104.036,102.181,101.884
+18,Lance Stroll,Williams,101.334,,,2018,15,103.849,102.141,102.22
+77,Valtteri Bottas,Mercedes,92.964,92.744,91.387,2018,16,94.999,93.584,93.321
+44,Lewis Hamilton,Mercedes,92.41,92.595,91.532,2018,16,94.818,93.385,93.067
+5,Sebastian Vettel,Ferrari,93.476,93.045,91.943,2018,16,94.488,93.928,93.667
+7,Kimi Räikkönen,Ferrari,93.341,93.065,92.237,2018,16,95.696,94.388,93.688
+20,Kevin Magnussen,Haas F1 Team,94.078,93.747,93.181,2018,16,96.196,95.331,94.82
+31,Esteban Ocon,Racing Point,94.29,93.596,93.413,2018,16,95.663,95.147,94.809
+16,Charles Leclerc,Sauber,93.924,93.488,93.419,2018,16,97.054,95.432,94.628
+11,Sergio Perez,Racing Point,94.084,93.923,93.563,2018,16,,95.122,94.916
+8,Romain Grosjean,Haas F1 Team,94.022,93.517,93.704,2018,16,96.816,95.911,95.185
+9,Marcus Ericsson,Sauber,94.17,93.995,95.196,2018,16,,95.295,95.37
+33,Max Verstappen,Red Bull Racing,93.048,,,2018,16,94.538,93.827,93.937
+3,Daniel Ricciardo,Red Bull Racing,93.247,,,2018,16,95.524,93.844,94.394
+10,Pierre Gasly,Toro Rosso,94.383,,,2018,16,96.944,95.137,95.125
+55,Carlos Sainz,Renault,94.626,,,2018,16,,95.341,94.988
+27,Nico Hulkenberg,Renault,94.655,,,2018,16,96.274,95.568,95.213
+28,Brendon Hartley,Toro Rosso,95.037,,,2018,16,97.944,96.024,96.033
+14,Fernando Alonso,McLaren,95.504,,,2018,16,,96.074,96.992
+35,Sergey Sirotkin,Williams,95.612,,,2018,16,97.225,96.861,96.071
+2,Stoffel Vandoorne,McLaren,95.977,,,2018,16,97.187,96.617,96.597
+18,Lance Stroll,Williams,96.437,,,2018,16,99.137,97.001,96.274
+44,Lewis Hamilton,Mercedes,88.702,88.017,87.76,2018,17,88.691,88.217,89.599
+77,Valtteri Bottas,Mercedes,89.297,87.987,88.059,2018,17,89.137,88.678,90.422
+33,Max Verstappen,Red Bull Racing,89.48,88.849,89.057,2018,17,89.841,89.257,90.304
+7,Kimi Räikkönen,Ferrari,89.631,88.595,89.521,2018,17,89.627,89.498,90.054
+8,Romain Grosjean,Haas F1 Team,89.724,89.678,89.761,2018,17,90.814,90.44,91.636
+28,Brendon Hartley,Toro Rosso,90.248,89.848,90.023,2018,17,91.908,90.502,92.03
+10,Pierre Gasly,Toro Rosso,90.137,89.81,90.093,2018,17,91.073,90.795,93.105
+31,Esteban Ocon,Racing Point,89.899,89.538,90.126,2018,17,90.591,90.035,91.088
+5,Sebastian Vettel,Ferrari,89.049,88.279,92.192,2018,17,89.685,89.05,89.715
+11,Sergio Perez,Racing Point,90.247,89.567,97.229,2018,17,91.272,90.51,91.483
+16,Charles Leclerc,Sauber,89.706,89.864,,2018,17,90.929,90.906,91.76
+20,Kevin Magnussen,Haas F1 Team,90.219,90.226,,2018,17,91.274,90.956,91.521
+55,Carlos Sainz,Renault,90.236,90.49,,2018,17,91.1,90.904,91.513
+18,Lance Stroll,Williams,90.317,90.714,,2018,17,91.508,91.215,92.201
+3,Daniel Ricciardo,Red Bull Racing,89.806,,,2018,17,89.373,89.513,90.474
+27,Nico Hulkenberg,Renault,90.361,,,2018,17,91.418,90.644,92.224
+35,Sergey Sirotkin,Williams,90.372,,,2018,17,92.513,91.087,92.631
+14,Fernando Alonso,McLaren,90.573,,,2018,17,92.034,90.988,92.608
+2,Stoffel Vandoorne,McLaren,91.041,,,2018,17,,91.981,93.034
+9,Marcus Ericsson,Sauber,91.213,,,2018,17,91.073,90.478,92.442
+44,Lewis Hamilton,Mercedes,94.13,93.48,92.237,2018,18,107.502,108.716,93.87
+5,Sebastian Vettel,Ferrari,94.569,93.079,92.298,2018,18,109.489,113.912,93.797
+7,Kimi Räikkönen,Ferrari,94.703,92.884,92.307,2018,18,109.928,113.443,93.843
+77,Valtteri Bottas,Mercedes,94.518,93.702,92.616,2018,18,108.806,,94.556
+3,Daniel Ricciardo,Red Bull Racing,94.755,94.185,93.494,2018,18,109.326,,94.91
+31,Esteban Ocon,Racing Point,94.876,94.522,94.145,2018,18,111.655,115.348,95.562
+27,Nico Hulkenberg,Renault,94.932,94.564,94.215,2018,18,111.717,112.208,95.882
+8,Romain Grosjean,Haas F1 Team,94.892,94.419,94.25,2018,18,110.821,,95.468
+16,Charles Leclerc,Sauber,95.069,94.255,94.42,2018,18,110.961,114.101,95.365
+11,Sergio Perez,Racing Point,95.193,94.525,94.594,2018,18,111.459,114.963,95.411
+55,Carlos Sainz,Renault,94.891,94.566,,2018,18,110.665,114.42,95.45
+20,Kevin Magnussen,Haas F1 Team,94.972,94.732,,2018,18,111.614,,95.77
+10,Pierre Gasly,Toro Rosso,94.85,,,2018,18,111.234,109.728,95.713
+28,Brendon Hartley,Toro Rosso,95.206,,,2018,18,,112.505,96.33
+33,Max Verstappen,Red Bull Racing,94.766,,,2018,18,108.847,109.798,94.703
+14,Fernando Alonso,McLaren,95.294,,,2018,18,111.036,111.728,96.332
+35,Sergey Sirotkin,Williams,95.362,,,2018,18,111.589,115.446,96.193
+18,Lance Stroll,Williams,95.48,,,2018,18,111.896,114.637,96.188
+9,Marcus Ericsson,Sauber,95.536,,,2018,18,111.016,113.07,96.0
+2,Stoffel Vandoorne,McLaren,95.735,,,2018,18,,113.354,96.302
+3,Daniel Ricciardo,Red Bull Racing,75.866,75.845,74.759,2018,19,77.139,76.873,77.028
+33,Max Verstappen,Red Bull Racing,75.756,75.64,74.785,2018,19,76.656,76.72,76.284
+44,Lewis Hamilton,Mercedes,75.673,75.644,74.894,2018,19,78.075,78.1,76.538
+5,Sebastian Vettel,Ferrari,76.089,75.715,74.97,2018,19,78.746,77.954,76.566
+77,Valtteri Bottas,Mercedes,75.58,75.923,75.16,2018,19,78.322,78.14,78.839
+7,Kimi Räikkönen,Ferrari,76.446,75.996,75.33,2018,19,78.936,78.133,77.045
+27,Nico Hulkenberg,Renault,76.498,76.126,75.827,2018,19,78.028,78.046,77.623
+55,Carlos Sainz,Renault,76.813,76.188,76.084,2018,19,77.926,77.953,77.336
+16,Charles Leclerc,Sauber,76.862,76.32,76.189,2018,19,,79.024,77.059
+9,Marcus Ericsson,Sauber,76.701,76.633,76.513,2018,19,79.312,79.322,77.565
+31,Esteban Ocon,Racing Point,76.252,76.844,,2018,19,,78.485,77.731
+14,Fernando Alonso,McLaren,76.857,76.871,,2018,19,,79.543,78.548
+11,Sergio Perez,Racing Point,76.242,77.167,,2018,19,79.124,78.167,77.819
+28,Brendon Hartley,Toro Rosso,76.682,77.184,,2018,19,79.024,78.061,78.637
+10,Pierre Gasly,Toro Rosso,76.828,,,2018,19,,79.047,77.525
+8,Romain Grosjean,Haas F1 Team,76.911,,,2018,19,79.276,78.733,78.145
+2,Stoffel Vandoorne,McLaren,76.966,,,2018,19,79.716,79.096,78.445
+20,Kevin Magnussen,Haas F1 Team,77.599,,,2018,19,79.853,79.67,
+18,Lance Stroll,Williams,77.689,,,2018,19,80.142,79.219,78.698
+35,Sergey Sirotkin,Williams,77.886,,,2018,19,79.899,79.335,78.669
+44,Lewis Hamilton,Mercedes,68.464,67.795,67.281,2018,20,69.107,68.849,68.165
+5,Sebastian Vettel,Ferrari,68.452,67.776,67.374,2018,20,69.06,68.919,67.948
+77,Valtteri Bottas,Mercedes,68.492,67.727,67.441,2018,20,69.679,68.846,68.465
+7,Kimi Räikkönen,Ferrari,68.452,68.028,67.456,2018,20,69.573,69.412,68.49
+33,Max Verstappen,Red Bull Racing,68.205,68.017,67.778,2018,20,69.011,69.339,68.733
+3,Daniel Ricciardo,Red Bull Racing,68.544,68.055,67.78,2018,20,69.395,69.164,68.788
+9,Marcus Ericsson,Sauber,68.754,68.579,68.296,2018,20,,70.532,69.808
+16,Charles Leclerc,Sauber,68.667,68.335,68.492,2018,20,70.346,69.943,69.448
+8,Romain Grosjean,Haas F1 Team,68.735,68.239,68.517,2018,20,69.922,69.769,69.257
+10,Pierre Gasly,Toro Rosso,69.046,68.616,69.029,2018,20,70.934,70.33,69.402
+20,Kevin Magnussen,Haas F1 Team,68.474,68.659,,2018,20,70.236,70.007,69.146
+11,Sergio Perez,Racing Point,69.217,68.741,,2018,20,,70.32,70.116
+31,Esteban Ocon,Racing Point,69.264,68.77,,2018,20,70.361,70.159,69.588
+27,Nico Hulkenberg,Renault,69.009,68.834,,2018,20,70.679,71.674,69.461
+35,Sergey Sirotkin,Williams,69.259,70.381,,2018,20,71.037,70.569,69.885
+55,Carlos Sainz,Renault,69.269,,,2018,20,70.662,70.458,69.864
+28,Brendon Hartley,Toro Rosso,69.28,,,2018,20,71.176,70.734,69.985
+14,Fernando Alonso,McLaren,69.402,,,2018,20,,70.332,70.02
+18,Lance Stroll,Williams,69.441,,,2018,20,70.799,70.662,70.001
+2,Stoffel Vandoorne,McLaren,69.601,,,2018,20,71.452,70.596,70.289
+44,Lewis Hamilton,Mercedes,96.828,95.693,94.794,2018,21,99.543,97.443,97.176
+77,Valtteri Bottas,Mercedes,96.789,96.392,94.956,2018,21,99.452,97.236,97.933
+5,Sebastian Vettel,Ferrari,96.775,96.345,95.125,2018,21,100.453,97.569,97.587
+7,Kimi Räikkönen,Ferrari,97.01,96.735,95.365,2018,21,100.417,97.461,97.464
+3,Daniel Ricciardo,Red Bull Racing,97.117,96.964,95.401,2018,21,98.945,97.428,98.09
+33,Max Verstappen,Red Bull Racing,97.195,96.144,95.589,2018,21,98.491,97.28,97.747
+8,Romain Grosjean,Haas F1 Team,97.575,96.732,96.192,2018,21,100.663,98.06,98.304
+16,Charles Leclerc,Sauber,97.124,96.58,96.237,2018,21,,98.831,99.282
+31,Esteban Ocon,Racing Point,96.936,96.814,96.54,2018,21,100.102,98.402,99.011
+27,Nico Hulkenberg,Renault,97.569,96.63,96.542,2018,21,101.023,98.23,98.85
+55,Carlos Sainz,Renault,97.757,96.982,,2018,21,100.588,98.511,98.97
+9,Marcus Ericsson,Sauber,97.619,97.132,,2018,21,101.928,99.502,99.997
+20,Kevin Magnussen,Haas F1 Team,97.934,97.309,,2018,21,100.235,98.318,99.612
+11,Sergio Perez,Racing Point,97.255,97.541,,2018,21,101.075,98.806,99.053
+14,Fernando Alonso,McLaren,97.89,97.743,,2018,21,102.313,98.725,99.974
+28,Brendon Hartley,Toro Rosso,97.994,,,2018,21,101.137,98.957,99.074
+10,Pierre Gasly,Toro Rosso,98.166,,,2018,21,100.671,98.506,99.74
+2,Stoffel Vandoorne,McLaren,98.577,,,2018,21,102.114,99.938,100.233
+35,Sergey Sirotkin,Williams,98.635,,,2018,21,,100.935,101.182
+18,Lance Stroll,Williams,98.682,,,2018,21,101.493,100.046,100.117
