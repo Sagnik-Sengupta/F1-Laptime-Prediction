@@ -5,11 +5,11 @@ This project predicts **Q3 lap times** of Formula 1 races using **historical qua
 It utilizes the **FastF1 API** to fetch historical laptime data.
 
 ## Data Collection
-The dataset consists of F1 qualifying results from **2018 to 2024**, stored in CSV format. The data includes:
+The dataset consists of F1 practice and qualifying results from **2018 to 2024**, stored in CSV format. The data includes:
 - **DriverNumber**: Unique identifier for each driver
 - **Driver**: Driver's full name
 - **TeamName**: Constructor team name
-- **FP1, FP2, FP3**: Practice session lap times (not used in final model)
+- **FP1, FP2, FP3**: Practice session lap times 
 - **Q1, Q2, Q3**: Qualifying session lap times
 - **Year**: Season year
 - **Round**: Race number in the season
