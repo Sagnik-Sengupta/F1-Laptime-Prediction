@@ -59,16 +59,6 @@ The dataset consists of F1 practice and qualifying results from **2018 to 2024**
    hdfs dfs -get /f1_predictions_only_quali/ results/
    ```
 
-## GitHub Repository
-To push the project to GitHub:
-```bash
-git init
-git remote add origin https://github.com/YOUR_USERNAME/f1_laptime_prediction.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
-```
-
 ## Contributors
 - **Sagnik Sengupta**  
 
