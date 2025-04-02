@@ -1,0 +1,16 @@
+Driver,TeamName,Q1,Q2,Actual_Q3,Predicted_Q3
+Max Verstappen,Red Bull Racing,84.16,83.74,83.445,83.59431948062706
+Lando Norris,McLaren,84.368,83.92,83.816,83.75523647865725
+Charles Leclerc,Ferrari,84.459,83.969,83.584,83.78138593413287
+Pierre Gasly,Alpine,84.6,84.078,84.548,83.8711022591767
+George Russell,Mercedes,84.337,84.013,83.788,83.90950073363268
+Fernando Alonso,Aston Martin,84.501,84.131,84.084,84.00078199593483
+Sergio Perez,Red Bull Racing,84.209,84.116,84.171,84.12845609361375
+Nico Hulkenberg,Haas F1 Team,84.425,84.213,84.108,84.1617945994465
+Yuki Tsunoda,AlphaTauri,84.286,84.207,83.968,84.22427182593233
+Oscar Piastri,McLaren,84.487,84.278,83.782,84.22664194934742
+Esteban Ocon,Alpine,84.565,84.391,q3 time invalid,84.35466293348017
+Lewis Hamilton,Mercedes,84.437,84.359,q3 time invalid,84.37281636232751
+Lance Stroll,Aston Martin,84.405,84.422,q3 time invalid,84.48295911464245
+Daniel Ricciardo,AlphaTauri,84.461,84.442,q3 time invalid,84.48395139141854
+Alexander Albon,Williams,84.298,84.439,q3 time invalid,84.56321737885133
